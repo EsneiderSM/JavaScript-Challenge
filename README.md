@@ -1,2 +1,2 @@
 # Javascript30
-30 Day Challenge
+30 Day Challenge https://javascript30.com/
